@@ -1,6 +1,4 @@
-### Hi there 👋
-**FrancoisVsr/FrancoisVsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hello, welcome to my github page where you can find all my projects👋
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancoisVsr&show_icons=true&theme=blue&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoisVsr&theme=dark)
